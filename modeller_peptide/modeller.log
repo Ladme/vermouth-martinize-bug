@@ -1,0 +1,34 @@
+
+                         MODELLER 10.4, 2022/10/28, r12463
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2022 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Linux tyr.ceitec.muni.cz 5.10.0-21-amd64 x86_64
+Date and time of compilation         : 2022/10/28 20:54:52
+MODELLER executable type             : x86_64-intel8
+Job starting time (YY/MM/DD HH:MM:SS): 2023/11/01 13:57:11
+
+environ____W> The class 'environ' is deprecated; use 'Environ' instead
+read_to_681_> topology.submodel read from topology file:        3
+model______W> The class 'model' is deprecated; use 'Model' instead
+selection__W> The class 'selection' is deprecated; use 'Selection' instead
+alpha______W> The class 'alpha' is deprecated; use 'Alpha' instead
+conjugate__W> The class 'conjugate_gradients' is deprecated; use 'ConjugateGradients' instead
+Total CPU time [seconds]                                 :       0.26
